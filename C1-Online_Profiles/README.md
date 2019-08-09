@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[GitHub Link](https://github.com/ccart120)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[Christine Cartagena LinkedIn](www.linkedin.com/in/christine-cartagena)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
