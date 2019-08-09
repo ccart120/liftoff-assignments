@@ -1,5 +1,5 @@
-LiftOff Project Outline
-Overview
+<h1>LiftOff Project Outline</h1>
+<h2>Overview</h2>
 The idea for my project is based around food trucks. Many people love them and spend time tracking them to see where they will be next, 
 or search the internet looking for new ones to visit. I personally stumbled upon an event called Food Truck Friday in Tower Grove Park in
 which over a dozen food trucks of different types are lined up on a couple of roads for customers to enjoy. I loved this event because it 
@@ -16,12 +16,12 @@ group them by location or type of food. A calendar will also be available for a 
 STLFoodTruckFavorites offers a place where people can find their favorite food trucks, where they will be in the future, and when they 
 will be there so they can always be on top of their food truck favorites.
 
-Features
+<h2>Features</h2>
 User accounts: users will be able to log on and create an account that saves their food truck favorites/lists
 Google Maps Integration: users will be able to click on a food truck location and see the address marked on a Google map
 Search: users will be able to search for a food truck by type of food and location
 
-Technologies
+<h2>Technologies</h2>
 C# /.NET
 MVC Model
 Web API
@@ -29,9 +29,12 @@ JavaScript/JQuery
 Bootstrap
 Entity Framework
 
-What I’ll Have to Learn
+<h2>What Iâ€™ll Have to Learn</h2>
 I will need to learn how to set up an admin and user roles, user accounts, how to integrate Google Maps API with my web app. I would 
 also like to include JavaScript and possibly JQuery to add some more advanced functionality, along with Bootstrap.
 
-Project Tracker
+<h2>Project Tracker</h2>
 https://trello.com/b/wisYPveo/stlfoodtruckfavorites
+
+<h2>GitHub Repository</h2>
+https://github.com/ccart120/STLFoodTruckFavorites2.git
